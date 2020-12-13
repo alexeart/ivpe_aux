@@ -4687,7 +4687,7 @@ app.initiate = async function ()
 	
 	
 	let breadcrumb = document.querySelector("body > div.iv-root.iv-js-dependent > div > main > div > div > div.iv-ui-partner-page > div > ul > li.active");	
-	let topLinks = '&nbsp;&nbsp;<span id="back-to-original">Назад к оригинальному ЛКС</span>&nbsp;|&nbsp;<span id="open_lk">Открыть ЛК</span>&nbsp;|&nbsp;<span id="pay_history">История операций</span>&nbsp;|&nbsp;<span id="sup_link">Клиент в СУП</span>'+updMsg;	
+	let topLinks = '&nbsp;&nbsp;<span id="back-to-original">Назад к оригинальному ЛКС</span>&nbsp;|&nbsp;<span id="open_lk">Открыть ЛК</span>&nbsp;|&nbsp;<span id="pay_history">История операций</span>&nbsp;|&nbsp;<span id="sup_link">Клиент в СУП</span> !!!  cloud test'+updMsg;	
 	
 	if (!breadcrumb.innerHTML.contains("back-to-original")) {
 		breadcrumb.innerHTML += topLinks;			
