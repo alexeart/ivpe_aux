@@ -4,5 +4,6 @@
   "text" : "Новая версия 1.6.2",
   "gr_domain" : "https://grafana.ivideon.ru",
   "gr_endpoint_1" : "/d/xu1OPl9Vk/cloud-watch-camera-and-videoserver-new?orgId=2&from=now-24h&to=now&var-uin=<uin>&var-camera_id=<camera>",
-  "gr_endpoint_2" : "/d/OxqUns6iz/cloud-watch-camera-and-videoserver?orgId=1&from=now-24h&to=now&var-uin=<uin>&var-camera_id=<camera>"
+  "gr_endpoint_2" : "/d/OxqUns6iz/cloud-watch-camera-and-videoserver?orgId=1&from=now-24h&to=now&var-uin=<uin>&var-camera_id=<camera>",
+  "openapi_url_location": ["\"openApi\":{\"publicUrl\":\"", "/\","]
 }
