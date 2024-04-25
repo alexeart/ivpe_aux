@@ -1,7 +1,7 @@
 {
-  "version" : "1.6.3",
-  "link" : "https://drive.google.com/file/d/1qb2AnKFf0O2VPinz8fsUDuE42TOyEA5A/view?usp=sharing",
-  "text" : "Новая версия 1.6.3",
+  "version" : "1.7.0",
+  "link" : "https://drive.google.com/file/d/15tFwwaeN1pWVsCc5mbIfuGGUv2NkKhDr/view?usp=sharing",
+  "text" : "Новая версия 1.7.0",
   "gr_domain" : "https://grafana.ivideon.ru",
   "gr_domain_usa" : "https://grafana-usa01.ivideon.ru",
   "gr_endpoint_1" : "/d/xu1OPl9Vk/cloud-watch-camera-and-videoserver-new?orgId=2&from=now-24h&to=now&var-uin=<uin>&var-camera_id=<camera>",
