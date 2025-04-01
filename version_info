@@ -6,6 +6,6 @@
   "gr_domain_usa" : "https://grafana-usa01.ivideon.ru",
   "gr_endpoint_1" : "/d/xu1OPl9Vk/cloud-watch-camera-and-videoserver-new?orgId=2&from=now-24h&to=now&var-uin=<uin>&var-camera_id=<camera>",
   "gr_endpoint_2" : "/d/OxqUns6iz/cloud-watch-camera-and-videoserver?orgId=1&from=now-24h&to=now&var-uin=<uin>&var-camera_id=<camera>",
-  "openapi_url_location": ["\"openApi\":{\"publicUrl\":\"", "/\","],
+  "openapi_url_location": ["\"openApi\":{\"apiUrl\":\"", "/\","],
   "user_token_location": ["\"userAccessToken\":\"" ,"\"},"]
 }
